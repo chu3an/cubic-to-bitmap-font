@@ -1,0 +1,20 @@
+# Font file
+*.ttf
+*font.py
+
+# Image file
+*.png
+*.bmp
+
+# Playground files
+lab*
+test*
+
+# Enviroment files
+.vscode/
+venv*/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
